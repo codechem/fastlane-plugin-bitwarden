@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bde459e-d591-47e4-9f2f-906f0b131141" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UtOvk14yTEcG53cwrqJumk2OJh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/fastlane/plugin/bitwarden/actions" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/fastlane/plugin/bitwarden/actions" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CommandRunConfigurationType" factoryName="Gem Command">
+      <module name="fastlane-plugin-bitwarden" />
+      <COMMAND_RUN_CONFIGURATION NAME="RUBY_ARGS" VALUE="" />
+      <COMMAND_RUN_CONFIGURATION NAME="WORK DIR" VALUE="" />
+      <COMMAND_RUN_CONFIGURATION NAME="SHOULD_USE_SDK" VALUE="false" />
+      <COMMAND_RUN_CONFIGURATION NAME="ALTERN_SDK_NAME" VALUE="" />
+      <COMMAND_RUN_CONFIGURATION NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <COMMAND_CONFIG_SETTINGS_ID NAME="GEM_NAME" VALUE="fastlane" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_NAME" VALUE="fastlane" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_ARGS" VALUE="test" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="WORKING_DIR" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="RubyRunConfigurationType" factoryName="Ruby" nameIsGenerated="true">
+      <module name="fastlane-plugin-bitwarden" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="BW_CLI_PATH" value="$MODULE_DIR$/../lana/Tools/bw-darwin" />
+        <env name="BW_SERVER_URL" value="https://pass.codechem.com" />
+        <env name="BW_EMAIL" value="publishing@halicea.com" />
+        <env name="BW_PASSWORD" value="9dssJyFDi2Xr4WkCv8U8orTkRZ8sX7Z5" />
+        <env name="BW_ITEM_ID" value="faca248e-1f92-44e8-84b0-ab2000a034b7" />
+        <env name="BW_ATTACHMENT_ID" value="1w8jln7zlksn6acqszjzjt6r6c6lhrcu" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="/usr/local/opt/ruby/bin/bundle" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="exec fastlane test" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bde459e-d591-47e4-9f2f-906f0b131141" name="Default Changelist" comment="" />
+      <created>1576172658349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576172658349</updated>
+      <workItem from="1576172666755" duration="4136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="183" y="-867" width="1071" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576176444897">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="183" y="-867" width="1071" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1576176444897" />
+    <state width="447" height="466" key="DebuggerActiveHint" timestamp="1576174964017">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="447" height="466" key="DebuggerActiveHint/0.23.1440.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1576174964017" />
+    <state x="473" y="-757" key="EnvironmentVariablesDialog" timestamp="1576176443990">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="473" y="-757" key="EnvironmentVariablesDialog/0.23.1440.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1576176443990" />
+    <state width="1878" height="357" key="GridCell.Tab.0.bottom" timestamp="1576176598734">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.0.bottom/0.23.1440.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1576176598734" />
+    <state width="1878" height="357" key="GridCell.Tab.0.center" timestamp="1576176598733">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.0.center/0.23.1440.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1576176598733" />
+    <state width="1878" height="357" key="GridCell.Tab.0.left" timestamp="1576176598732">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.0.left/0.23.1440.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1576176598732" />
+    <state width="1878" height="357" key="GridCell.Tab.0.right" timestamp="1576176598733">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.0.right/0.23.1440.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1576176598733" />
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom" timestamp="1576176598736">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom/0.23.1440.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1576176598736" />
+    <state width="1878" height="357" key="GridCell.Tab.1.center" timestamp="1576176598735">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.center/0.23.1440.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1576176598735" />
+    <state width="1878" height="357" key="GridCell.Tab.1.left" timestamp="1576176598735">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.left/0.23.1440.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1576176598735" />
+    <state width="1878" height="357" key="GridCell.Tab.1.right" timestamp="1576176598736">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.right/0.23.1440.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1576176598736" />
+    <state x="228" y="-890" key="SettingsEditor" timestamp="1576172774990">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="228" y="-890" key="SettingsEditor/0.23.1440.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1576172774990" />
+    <state x="384" y="-886" width="816" height="714" key="find.popup" timestamp="1576175607822">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="384" y="-886" width="816" height="714" key="find.popup/0.23.1440.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1576175607822" />
+    <state x="383" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1576176722139">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="383" y="-822" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1576176722139" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="RubyRunConfigurationType">
+        <watch expression="key.to_s" language="ruby" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/fastlane_plugin_bitwarden@Unnamed.rcov" NAME="Unnamed Coverage Results" MODIFIED="1576176585466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="fastlane-plugin-bitwarden" />
+  </component>
+</project>

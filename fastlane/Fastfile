@@ -1,0 +1,12 @@
+lane :test do
+  #bitwarden_login(server_url: "<your server_url>", email: "<your email>", password: "<your password>")
+
+  # The following variables are assumed:
+  # BW_SERVER_URL=<your server URL - or bitwarden.com by default>
+  # BW_EMAIL=<your Bitwarden Email>
+  # BW_PASSWORD=9<your Bitwarden password>
+
+  bitwarden_login
+
+  # bitwarden_get_object(object_type: "item", str_args: "<your-item-id>")
+end
